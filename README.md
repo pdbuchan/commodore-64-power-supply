@@ -6,8 +6,6 @@ This repository documents a repairable Commodore 64 external power supply, Commo
 
 ## Repository layout
 
-The repository layout is designed so that the page can be published directly with GitHub Pages.
-
 ```text
 commodore-64-power-supply/
 ├── README.md
